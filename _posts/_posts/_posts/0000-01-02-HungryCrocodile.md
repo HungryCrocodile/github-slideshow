@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hey look I'm using GimtHub woomf!
 Use the left arrow to go back!
